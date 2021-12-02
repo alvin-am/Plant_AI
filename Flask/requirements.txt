@@ -3,4 +3,4 @@ pandas
 Flask
 Pillow
 gunicorn == 20.0.4
-torch == 1.0.2
+torch == 1.9.0
